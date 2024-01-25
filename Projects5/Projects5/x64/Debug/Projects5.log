@@ -1,0 +1,29 @@
+﻿  main.cpp
+C:\Users\borba\source\repos\Projects5\Projects5\main.cpp(212,56): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\borba\source\repos\Projects5\Projects5\main.cpp(212,41): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\borba\source\repos\Projects5\Projects5\main.cpp(214,44): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\borba\source\repos\Projects5\Projects5\main.cpp(214,29): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\borba\source\repos\Projects5\Projects5\main.cpp(215,24): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\borba\source\repos\Projects5\Projects5\main.cpp(217,32): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\borba\source\repos\Projects5\Projects5\main.cpp(260,38): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\borba\source\repos\Projects5\Projects5\main.cpp(263,20): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\borba\source\repos\Projects5\Projects5\main.cpp(264,19): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\borba\source\repos\Projects5\Projects5\main.cpp(300,63): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\borba\source\repos\Projects5\Projects5\main.cpp(300,48): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\borba\source\repos\Projects5\Projects5\main.cpp(304,30): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\borba\source\repos\Projects5\Projects5\main.cpp(318,32): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\borba\source\repos\Projects5\Projects5\main.cpp(321,36): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\borba\source\repos\Projects5\Projects5\main.cpp(466,46): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\borba\source\repos\Projects5\Projects5\main.cpp(466,43): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\borba\source\repos\Projects5\Projects5\main.cpp(536,32): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\borba\source\repos\Projects5\Projects5\main.cpp(537,32): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\borba\source\repos\Projects5\Projects5\main.cpp(570,45): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\borba\source\repos\Projects5\Projects5\main.cpp(571,45): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\borba\source\repos\Projects5\Projects5\main.cpp(577,53): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\borba\source\repos\Projects5\Projects5\main.cpp(578,53): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\borba\source\repos\Projects5\Projects5\main.cpp(590,45): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\borba\source\repos\Projects5\Projects5\main.cpp(591,45): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\borba\source\repos\Projects5\Projects5\main.cpp(661,29): warning C4305: "+=": obcięcie z "double" do "float"
+C:\Users\borba\source\repos\Projects5\Projects5\main.cpp(671,29): warning C4305: "-=": obcięcie z "double" do "float"
+C:\Users\borba\source\repos\Projects5\Projects5\main.cpp(674,28): warning C4305: "=": obcięcie z "double" do "float"
+  Projects5.vcxproj -> C:\Users\borba\source\repos\Projects5\x64\Debug\Projects5.exe
